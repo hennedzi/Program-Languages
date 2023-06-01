@@ -1,2 +1,2 @@
-# University
-My programs from BNTU (C/C++)
+# Progrma Languages (C++)
+My programs from BNTU (C++)
